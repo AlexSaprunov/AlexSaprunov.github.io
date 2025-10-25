@@ -9,7 +9,7 @@
 - [Дипломный проект](https://github.com/AlexSaprunov/diploma)
 
 ## Мои работы по ТЗ работодателей 
-- [Задание по excel, творческая работа аналитика Pandas + PowerBI](https://github.com/AlexSaprunov/Pharma)
+
 
 ## Как связаться
 
